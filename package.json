@@ -1,0 +1,11 @@
+{
+    "name": "fabricio-portfolio",
+    "version": "1.0.0",
+    "description": "This is my portfolio",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "express": "^4.18.2"
+    }
+}
